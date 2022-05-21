@@ -1,0 +1,67 @@
+.chiziq{
+    width: 25px;
+    height: 4px;
+    background-color: rgb(69, 68, 68);
+    margin: 4px 0;
+}
+.icons{
+    font-size: 22px;
+}
+
+.myborder{
+    border-radius: 10px;
+}
+
+.myborder:hover{
+    background-color:aqua;
+}
+
+.txtColor{
+    color: #056A1C;
+}
+.btnColor{
+    background-color:#056A1C;
+    color: white;
+}
+a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.search{
+    position: relative;
+}
+
+.resultSearch{
+    width: 60%;
+    height: 40vh;
+    overflow: auto;
+    background-color:white;
+    padding: 15px;
+    position: absolute;
+    z-index: 99;
+}
+
+.resultSearch img{
+    width: 100px;
+    height: 100px;
+}
+
+.btnHeight{
+    height: 50px;
+}
+
+.MyCard{
+    position: relative;
+}
+.deleteBtn{
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
+.mymodal{
+    position: absolute; 
+    top: 150px;
+    right: 0;
+}
